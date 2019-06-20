@@ -1,0 +1,2 @@
+# ProjektProgr
+Projekt kalkulator
