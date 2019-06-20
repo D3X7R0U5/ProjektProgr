@@ -1,0 +1,7 @@
+D:\bartek\proba\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+D:\bartek\proba\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\bartek\proba\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\bartek\proba\Kalkulator\bin\Debug\Kalkulator.exe
+D:\bartek\proba\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\bartek\proba\Kalkulator\obj\Debug\Kalkulator.exe
+D:\bartek\proba\Kalkulator\obj\Debug\Kalkulator.pdb
